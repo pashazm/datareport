@@ -1,0 +1,4 @@
+site_id,ad_type_id,advertiser_id,monetization_channel_id,ad_unit_id,total_impressions,total_revenue,viewable_impressions,measurable_impressions,revenue_share_percent
+351,10,84,4,5174,16,0,2,16,1
+351,10,84,4,5174,6,0,0,6,1
+351,10,84,4,5174,4,0,0,4,1
